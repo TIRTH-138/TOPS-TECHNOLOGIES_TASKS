@@ -1,0 +1,22 @@
+Google Search Prompt 
+("CPA firm" OR "Accounting firm" OR "small business") ("need" OR "hiring" OR "looking for") ("remote bookkeeper" OR "remote bookkeeping" OR "tax preparer" OR "tax preparation services") site:linkedin.com/in OR site:linkedin.com/company OR site:clutch.co OR site:upcity.com OR site:goodfirms.co OR site:yellowpages.com "Alabama" "USA" "1-200 employees"
+
+
+Chatpt Prompt
+Act as a B2B lead generation expert. I run a company called Diligence Outsourcing Pvt Ltd that provides remote Bookkeeping and Tax Preparation services to businesses across the USA. I want to find potential clients region by region, especially small businesses or CPA/accounting firms that have between 1 to 200 employees and are likely to outsource these services.
+
+Give me a list of companies in [Insert Region or State, e.g., Texas] that:
+1. Are CPA firms or small businesses likely to need bookkeeping or tax prep help.
+2. Might be hiring or outsourcing remote bookkeepers or tax preparers.
+3. Have fewer than 200 employees.
+
+Please include for each lead:
+- Company name
+- Website
+- Location (city, state)
+- Type of business
+- Contact person name (if available)
+- Contact email or LinkedIn (if available)
+- Indicate if they’ve posted about needing a bookkeeper or tax preparer
+
+Start with [Insert Region/State] and generate 10 high-potential leads.
